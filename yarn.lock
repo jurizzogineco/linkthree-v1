@@ -3833,6 +3833,11 @@ eventsource@^1.0.7:
   dependencies:
     original "^1.0.0"
 
+eventsource@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/eventsource/-/eventsource-2.0.2.tgz#76dfcc02930fb2ff339520b6d290da573a9e8508"
+  integrity sha512-IzUmBGPR3+oUG9dUeXynyNmf91/3zUSJg1lCktzKw47OXuhco54U3r9B7O4XX+Rb1Itm9OZ2b0RkTs10bICOxA==
+
 exec-sh@^0.3.2:
   version "0.3.6"
   resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.3.6.tgz#ff264f9e325519a60cb5e273692943483cca63bc"
@@ -7479,7 +7484,7 @@ raw-body@2.5.1:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-razzle-dev-utils@^4.2.14:
+razzle-dev-utils@^4.2.17:
   version "4.2.17"
   resolved "https://registry.yarnpkg.com/razzle-dev-utils/-/razzle-dev-utils-4.2.17.tgz#dbdaa7571db46d9a0be98da587ad133f661d6896"
   integrity sha512-3+3gZkFhQHu3AAlJetMP/ibtVVQs+EEB3fnOj01oMkSGQKY1HTWO3bFf8RVb1NQpwss0FY8D4YJxOJmxhPxfVg==
@@ -7501,7 +7506,7 @@ razzle-start-server-webpack-plugin@4.2.17:
   resolved "https://registry.yarnpkg.com/razzle-start-server-webpack-plugin/-/razzle-start-server-webpack-plugin-4.2.17.tgz#ac2254d35bcd9e91a6873bbb536df48d78d6f446"
   integrity sha512-JHaLSwAw3NC9tEV/st0acgkPMwGzu/9T/464a1GQgzdWdPFcFNB+RN5xmapdIFI0qZYkXFKORZ4dGq7BTXXRXw==
 
-razzle@^4.2.14:
+razzle@^4.2.15:
   version "4.2.17"
   resolved "https://registry.yarnpkg.com/razzle/-/razzle-4.2.17.tgz#86745aa7447015a0fddd786a85840f4c6d44b786"
   integrity sha512-6fHp0F3DCWSTuqzj8JfzpZ4kmGjlOwa5ttrGjujQeVt69yJYE+NBwkuPCMm+7V8qwKaFWkUNq5cspywEaZqvqQ==
